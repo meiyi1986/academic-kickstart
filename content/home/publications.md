@@ -5,7 +5,10 @@ widget = "publications"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = '''
+**journals**: 23, **conferences**: 56 \\
+**h-index**: 16, **citations**: 1361
+'''
 
 # Order that this section will appear in.
 weight = 20
