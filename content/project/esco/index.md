@@ -14,7 +14,7 @@ Design effective evolutionary algorithms for scheduling and combinatorial optimi
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+tags = ["meta-heuristic"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

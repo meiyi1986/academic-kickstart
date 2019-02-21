@@ -14,7 +14,7 @@ Design heuristics for complex real-world optimisation problems using genetic pro
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = [""]
+tags = ["hyper-heuristic", "evolutionary-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
