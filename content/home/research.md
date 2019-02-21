@@ -3,11 +3,11 @@
 widget = "projects"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 10
 
 # Content.
 # Display content from the following folder.
@@ -18,7 +18,7 @@ folder = "project"
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view = 3
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column

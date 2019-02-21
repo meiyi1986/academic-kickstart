@@ -6,6 +6,7 @@ publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Proceedings of Intelligent and Evolutionary Systems*"
-doi = "https://doi.org/10.1007/978-3-319-49049-6_14"
+doi = "10.1007/978-3-319-49049-6_14"
+projects = ["ahd"]
 +++
 

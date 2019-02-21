@@ -1,6 +1,6 @@
 +++
 title = "Portfolio optimization through data conditioning and aggregation"
-date = 2011-01-01
+date = 2011-06-01
 authors = ["Elaine Wah", "Yi Mei", "Benjamin W Wah"]
 publication_types = ["1"]
 abstract = ""

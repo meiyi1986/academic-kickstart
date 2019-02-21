@@ -6,6 +6,7 @@ publication_types = ["2"]
 abstract = ""
 featured = false
 publication = "*Soft Computing*"
-doi = "https://doi.org/10.1007/s00500-014-1487-2"
+doi = "10.1007/s00500-014-1487-2"
+projects = ["lsgo"]
 +++
 

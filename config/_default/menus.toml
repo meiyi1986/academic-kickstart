@@ -19,28 +19,28 @@
   weight = 3
 
 [[main]]
+  name = "Grants&Awards"
+  url = "#grants"
+  weight = 4
+
+[[main]]
   name = "Publications"
   url = "#publications_featured"
-  weight = 4
+  weight = 5
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
 
 [[main]]
   name = "Supervision"
   url = "#supervision"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Services"
   url = "#services"
-  weight = 7
-
-[[main]]
-  name = "Grants&Awards"
-  url = "#awards"
   weight = 8
 
 [[main]]

@@ -1,6 +1,6 @@
 +++
 title = "An Analysis of the Inertia Weight Parameter for Binary Particle Swarm Optimization"
-date = 2016-01-01
+date = 2016-10-01
 authors = ["Jianhua Liu", "Yi Mei", "Xiaodong Li"]
 publication_types = ["2"]
 abstract = ""

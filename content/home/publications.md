@@ -6,15 +6,19 @@ active = true  # Activate this widget? true/false
 
 title = "Recent Publications"
 subtitle = '''
-**journals**: 23, **conferences**: 56 \\
-**h-index**: 16, **citations**: 1361
+**\#journal papers**: 23 \\
+**\#conferences papers**: 56 \\
+**\#book chapters**: 1 \\
+\\
+**h-index**: 16 \\
+**citations**: 1361
 '''
 
 # Order that this section will appear in.
-weight = 20
+weight = 25
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # View.
 #   1 = List

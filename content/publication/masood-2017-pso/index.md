@@ -6,6 +6,7 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of the Australasian Conference on Artificial Life and Computational Intelligence*"
-doi = "https://doi.org/10.1007/978-3-319-51691-2_28"
+doi = "10.1007/978-3-319-51691-2_28"
+projects = ["ahd"]
 +++
 

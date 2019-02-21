@@ -6,6 +6,7 @@ publication_types = ["6"]
 abstract = ""
 featured = false
 publication = "*Evolutionary Computation for Dynamic Optimization Problems*"
-doi = "https://doi.org/10.1007/978-3-642-38416-5_15"
+doi = "10.1007/978-3-642-38416-5_15"
+projects = ["esco"]
 +++
 

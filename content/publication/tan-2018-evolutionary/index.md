@@ -7,5 +7,6 @@ abstract = ""
 featured = false
 publication = "*IEEE Transactions on Services Computing*"
 doi = "10.1109/TSC.2018.2793266"
+projects = ["esco"]
 +++
 

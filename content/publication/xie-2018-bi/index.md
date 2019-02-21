@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = "*IEEE Transactions on Cybernetics*"
 doi = "10.1109/TCYB.2016.2638820"
-url_code = "code.zip"
+projects = ["esco"]
 +++
 
